@@ -896,13 +896,13 @@ main #conhecimentos .larguraMaxContainer > div #cards-conhecimentos div {
 
 main #conhecimentos .larguraMaxContainer > div #cards-conhecimentos div .cards-nomes {
   position: absolute;
-  top: -50px;
+  top: -60px;
   left: 50%;
   -webkit-transform: translate(-50%, 0%);
           transform: translate(-50%, 0%);
   background-color: #202020;
   padding: 5px;
-  height: 30px;
+  height: 50px;
   width: 125px;
   border-radius: 5px;
   color: #FEFBFB;
