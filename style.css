@@ -1,7 +1,7 @@
 * {
   padding: 0;
   margin: 0;
-  font-family: "Fira Code", monospace, "Montserrat", sans-serif;
+  font-family: "DM Sans", monospace, "Montserrat", sans-serif;
 }
 
 *, ::before, ::after {
@@ -368,10 +368,10 @@ main #apresentacaoPortfolio .larguraMaxContainer #apresentacaoFoto .object {
   -webkit-animation: MoveUpDown 2s linear infinite;
           animation: MoveUpDown 2s linear infinite;
   position: absolute;
-  right: 0;
+  right: 5;
   top: 0;
-  z-index: 4;
-  max-width: 550px;
+  z-index: 0;
+  max-width: 500px;
   width: 100%;
 }
 
